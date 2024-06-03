@@ -1,0 +1,10 @@
+.particle {
+    width: 10px;
+    height: 10px;
+    background-color: rgb(255, 0, 0);
+    border-color: white;
+    border-style: solid;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 999999;
+}
